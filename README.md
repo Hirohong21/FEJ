@@ -1,2 +1,6 @@
-"# FEJ" 
-"# FEJ" 
+### FEJ
+The human face is a special and complex feature of nature, which is precisely because the face contains extremely rich and unique information. First of all, it can be said that the face has certain invariance and uniqueness. Secondly, if the face is regarded as a two-dimensional image, then according to the characteristics of the image, the gender, mood, age, and Information about race and more. It can be said that a large amount of different feature data is stored in each person's face image.
+The face emotion judgment algorithm (FEJ algorithm) is a judgment classification algorithm based on machine vision. It is mainly used to classify and judge the target by analyzing and classifying 68 feature points and three face facial feature states of the target face. The emotional state of the face. This algorithm combines the classic computer recognition library OpenCV and the latest machine learning open source library Dlib, and then integrates and uses it through Python language. After three stages of research and continuous iterative optimization and update, it can be quickly and effectively and accurately from four simple The human facial emotional state—the “happy” emotional state, the “angry” emotional state, the “normal” emotional state, and the “surprised” emotional state classify and determine the target facial emotional state.
+Key Words:  
+FEJ algorithm; Dlib; OpenCV; Facial feature point; facial feature state
+ 
